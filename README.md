@@ -1,3 +1,25 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=300&section=header&text=Nautilus1011&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=55&descAlign=50)
+
+</div>
+
+<!-- 他のスタイルのヘッダー例（お好みで変更可能）
+
+波型・グラデーション（現在使用中）:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=300&section=header&text=Nautilus1011&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=55&descAlign=50)
+
+シャープな形・ブルー系:
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:83a4d4,100:b6fbff&height=250&section=header&text=Nautilus1011&fontSize=80&fontColor=ffffff&animation=twinkling)
+
+シンプル・グラデーション:
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=250&section=header&text=Nautilus1011&fontSize=80&fontColor=ffffff&animation=fadeIn)
+
+透明な波型:
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Nautilus1011&fontSize=90&animation=scaleIn&fontAlignY=40)
+
+-->
+
 # Hi there, I'm Nautilus1011 👋
 
 ## 🚀 自己紹介
