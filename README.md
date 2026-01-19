@@ -43,6 +43,35 @@
 - **特徴**: ピクセル/タイル/ポリゴン単位でのマルチスケール分析を行うカスタム評価パイプライン
 
 <!-- 
+## 🚀 注目プロジェクト
+
+### [プロジェクト名](https://github.com/Nautilus1011/repository-name)
+**説明**: プロジェクトの簡単な説明をここに記載
+- 🔹 特徴1
+- 🔹 特徴2
+- 🔹 使用技術: Python, PyTorch, OpenCV
+
+### [プロジェクト名2](https://github.com/Nautilus1011/repository-name2)
+**説明**: 別のプロジェクトの説明
+- 🔹 特徴1
+- 🔹 特徴2
+- 🔹 使用技術: Python, Open3D
+
+---
+
+**または、GitHub Readme Statsを使ったカード形式での表示も可能です:**
+
+<div align="center">
+  <a href="https://github.com/Nautilus1011/repository-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nautilus1011&repo=repository-name&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nautilus1011/repository-name2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nautilus1011&repo=repository-name2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+-->
+
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
