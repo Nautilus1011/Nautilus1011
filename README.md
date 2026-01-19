@@ -1,38 +1,48 @@
 # Hi there, I'm Nautilus1011 👋
 
 ## 🚀 About Me
-Welcome to my GitHub profile! I'm a passionate developer focused on building quality software.
+Machine Learning Engineer specializing in Computer Vision and Image Recognition.
+Currently working on satellite image analysis and semantic segmentation for my graduation research.
 
 ## 💻 Tech Stack
 
+### Deep Learning & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Data Science & Processing
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Hydra](https://img.shields.io/badge/Hydra-89b8cd?style=for-the-badge&logo=python&logoColor=white)
 
+### Geospatial Data
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+## 🎓 Projects & Research
+
+### Graduation Research: Land Use Classification AI System
+- **Objective**: Automated land use zone estimation from satellite imagery
+- **Approach**: Multi-model architecture combining YOLOv8/v11 for instance segmentation and U-Net for semantic segmentation
+- **Tech Stack**: PyTorch Lightning, OpenCV, Rasterio for GeoTIFF processing
+- **Features**: Custom evaluation pipeline with multi-scale analysis (pixel/tile/polygon level)
+
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -43,11 +53,12 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building qua
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nautilus1011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+-->
 
 ## 🌱 Currently Learning
-- Advanced Cloud Architecture
-- Machine Learning & AI
-- System Design Patterns
+- **Open3D**: 3D point cloud processing and visualization
+- **Transformer-based Vision Models**: ViT, DETR for advanced computer vision tasks
+- **MLOps**: Experiment tracking and model deployment pipelines
 
 ## 📫 How to Reach Me
 - GitHub: [@Nautilus1011](https://github.com/Nautilus1011)
