@@ -70,6 +70,17 @@
 - YOLOによる物体検出・セグメンテーション
 - PyTorch、OpenCVなどを使用
 
+### [lightning-ml-starter](https://github.com/Nautilus1011/lightning-ml-starter)
+長期インターンで身につけた機械学習開発の進め方を、研究室のメンバーに共有するために作ったスターターテンプレートです。
+Pascal VOCを題材に、Faster R-CNNによる物体検出の学習から推論までを一通り動かせます。
+
+- **誰の環境でも同じように動く**: Docker / docker-composeで環境を固定しています。GPUがあれば使い、なければCPUで動きます。ホストとUIDを揃えた非rootユーザーで動かすので、生成ファイルの権限で困りません
+- **実験を再現できる**: 設定はHydraでyaml 1つに集約し、コマンドラインから上書きできます。実行ごとの設定スナップショットとチェックポイントは日時別のディレクトリに保存し、学習の経過はW&Bで記録します
+- **読みやすいコード構成**: PyTorch LightningのLightningModule / DataModuleでモデルとデータ処理を分け、学習と推論のエントリーポイントも分けています
+- **初めての人でも追える**: Docker・Hydra・W&B・Lightning・argparseについて、実際のコードに沿った解説ドキュメントを用意しました。実行結果を残したNotebookもあり、手元で動かす前に全体の流れを確認できます
+- **チーム開発の型**: Issue / PRテンプレートを用意し、ブランチを切ってPRでマージする流れで開発しています
+- 使用技術: Python, PyTorch Lightning, Hydra, W&B, Docker
+
 <!-- 
 ## 🚀 注目プロジェクト
 
