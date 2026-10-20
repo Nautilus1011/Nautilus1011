@@ -128,10 +128,8 @@ Pascal VOCを題材に、Faster R-CNNによる物体検出の学習から推論�
 -->
 
 ## 🌱 現在学習中
-- **Open3D**: 3次元点群データの処理と可視化
+- **Go**: Webバックエンド開発を学びながら、会社のホームページ開発に取り組んでいます
 - **Transformer系ビジョンモデル**: ViT、DETRなど最先端のコンピュータビジョン技術
-- **MLOps**: Dockerを使った実験環境の再現と、モデルデプロイメントパイプライン
-
 ## 📫 連絡先
 - GitHub: [@Nautilus1011](https://github.com/Nautilus1011)
 
