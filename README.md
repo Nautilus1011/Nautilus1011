@@ -70,7 +70,11 @@
 - YOLOによる物体検出・セグメンテーション
 - PyTorch、OpenCVなどを使用
 
-### [lightning-ml-starter](https://github.com/Nautilus1011/lightning-ml-starter)
+### lightning-ml-starter
+<a href="https://github.com/Nautilus1011/lightning-ml-starter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nautilus1011&repo=lightning-ml-starter&theme=tokyonight&hide_border=true" alt="lightning-ml-starter" />
+</a>
+
 長期インターンで身につけた機械学習開発の進め方を、研究室のメンバーに共有するために作ったスターターテンプレートです。
 Pascal VOCを題材に、Faster R-CNNによる物体検出の学習から推論までを一通り動かせます。
 
